@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Zakintaliban/project-basic-react.git/static/css/main.9093acdf.chunk.css",
+    "main.js": "/Zakintaliban/project-basic-react.git/static/js/main.94cd634c.chunk.js",
+    "main.js.map": "/Zakintaliban/project-basic-react.git/static/js/main.94cd634c.chunk.js.map",
+    "runtime-main.js": "/Zakintaliban/project-basic-react.git/static/js/runtime-main.ecd2fa29.js",
+    "runtime-main.js.map": "/Zakintaliban/project-basic-react.git/static/js/runtime-main.ecd2fa29.js.map",
+    "static/js/2.e5fa4f3b.chunk.js": "/Zakintaliban/project-basic-react.git/static/js/2.e5fa4f3b.chunk.js",
+    "static/js/2.e5fa4f3b.chunk.js.map": "/Zakintaliban/project-basic-react.git/static/js/2.e5fa4f3b.chunk.js.map",
+    "index.html": "/Zakintaliban/project-basic-react.git/index.html",
+    "precache-manifest.6b8dabc822c80f9a733f55dd6c440ee9.js": "/Zakintaliban/project-basic-react.git/precache-manifest.6b8dabc822c80f9a733f55dd6c440ee9.js",
+    "service-worker.js": "/Zakintaliban/project-basic-react.git/service-worker.js",
+    "static/css/main.9093acdf.chunk.css.map": "/Zakintaliban/project-basic-react.git/static/css/main.9093acdf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd2fa29.js",
+    "static/js/2.e5fa4f3b.chunk.js",
+    "static/css/main.9093acdf.chunk.css",
+    "static/js/main.94cd634c.chunk.js"
+  ]
+}
